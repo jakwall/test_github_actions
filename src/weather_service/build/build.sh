@@ -1,0 +1,1 @@
+echo i run src/weather_service/build/build.sh

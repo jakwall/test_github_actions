@@ -1,0 +1,1 @@
+echo i run src/config/build/build.sh
