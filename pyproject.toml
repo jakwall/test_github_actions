@@ -6,15 +6,6 @@ authors = [
     { name = "Jakob Wall", email = "jakob.wall@outlook.com" }
 ]
 dependencies = [
-    "pyspark[ml]",
-    "sklearn"
-]
-
-[project.optional-dependencies]
-dev = [
-    "tox",
-    "pre-commit",
-    "bump2version"
 ]
 
 [build-system]
