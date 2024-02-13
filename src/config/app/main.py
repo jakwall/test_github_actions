@@ -1,1 +1,3 @@
-print("Hej det är jag")
+import sys
+
+print(sys.version)
